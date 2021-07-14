@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Vscode extention configuration files
+**/out
+**/node_modules
+**/.vscode-test/
+*.vsix
